@@ -1,2 +1,0 @@
-# SEUangelfish.github.io
-C++
